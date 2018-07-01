@@ -27,3 +27,10 @@ mvn exec:java -Dexec.mainClass="WcSparkLauncher" (Has issues currently)
 
 Code reference :- https://github.com/melphi/spark-examples/tree/master/first-example
 
+Other References :- 
+https://stackoverflow.com/questions/45005370/spark-launcher-is-not-able-to-trigger-spark-job
+http://www.robertomarchetto.com/spark_java_maven_example
+http://spark.apache.org/docs/latest/submitting-applications.html#master-urls
+https://beam.apache.org/documentation/runners/spark/
+
+
